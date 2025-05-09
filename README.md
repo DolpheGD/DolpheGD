@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DolpheGD
-- YT: https://www.youtube.com/@Dolphe
-- Other YT: https://www.youtube.com/@dolphe_music
+## 👋 Hi, I’m @DolpheGD
+> YT: https://www.youtube.com/@Dolphe
+> Other YT: https://www.youtube.com/@dolphe_music
 
-- FrancisMod is discontinued
-- CascadeBot is being updated...
-- New project soon...
+
+- Team Cascade Studios Owner
+- FrancisMod Owner
+- CascadeBot Owner
 
 <!---
 DolpheGD/DolpheGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,4 @@
-## 👋 Hi, I’m @DolpheGD
 > YT: https://www.youtube.com/@Dolphe
-> Other YT: https://www.youtube.com/@dolphe_music
-
 
 - Team Cascade Studios Owner
 - FrancisMod Owner
